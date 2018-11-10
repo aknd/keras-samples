@@ -1,1 +1,1 @@
-# keras-samples
+# machine-learning-samples
